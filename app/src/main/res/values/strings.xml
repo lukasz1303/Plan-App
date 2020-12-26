@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Plan</string>
+
+    <string name="credits">Icon made by Freepik from www.flaticon.com </string>
+
+    <string name="type_of_classes_lecture">Lecture</string>
+    <string name="type_of_classes_exercises">Exercises</string>
+    <string name="type_of_classes_labs">Labs</string>
+    <string name="type_of_classes_none">None</string>
+
+    <string name="day_monday">Monday</string>
+    <string name="day_tuesday">Tuesday</string>
+    <string name="day_wednesday">Wednesday</string>
+    <string name="day_thursday">Thursday</string>
+    <string name="day_friday">Friday</string>
+
+    <string name="editor_insert_subject_successful">Subject saved</string>
+    <string name="editor_insert_subject_failed">Error with saving subject</string>
+
+    <string name="editor_update_subject_successful">Subject updated</string>
+    <string name="editor_update_subject_failed">Error with updating subject</string>
+
+    <string name="editor_delete_subject_successful">Subject deleted</string>
+    <string name="editor_delete_subject_failed">Error with deleting subject</string>
+
+    <string name="editor_delete_note_successful">Note deleted</string>
+    <string name="editor_delete_note_failed">Error with deleting note</string>
+
+    <string name="editor_insert_note_successful">Note saved</string>
+    <string name="editor_insert_note_failed">Error with saving note</string>
+    <string name="editor_insert_empty_note">Saving note failed. Empty note</string>
+
+    <string name="editor_update_note_successful">Note updated</string>
+    <string name="editor_update_note_failed">Error with updating subject</string>
+
+    <string name="delete_all_subjects_successful">Subjects deleted</string>
+    <string name="delete_all_subjects_failed">Error with deleting subjects</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_subjects">Delete all subjects</string>
+
+    <string name="dialog_delete_all_subjects">Delete all subjects?</string>
+
+    <string name="action_delete_subject">Delete this subject?</string>
+    <string name="action_delete_note">Delete this note?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="edit_subject">Edit subject</string>
+    <string name="add_a_subject">Add a subject</string>
+
+    <string name="alert_no_subject">You must enter a name of the subject.</string>
+    <string name="alert_no_room">You must enter the classroom.</string>
+    <string name="alert_no_subject_and_room">You must enter a name of the subject and room.</string>
+
+    <string name="unsaved_changes_dialog_msg">Save changes or reject?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+    <string name="save">Save</string>
+    <string name="keep_editing">Keep editing</string>
+
+    <string name="empty_text_top">NO SUBJECTS</string>
+    <string name="empty_text_bottom">Click the plus button to add new now.</string>
+
+    <string name="ok">OK</string>
+
+    <string name="end_time_later_than_start_time">Start of subject is later than end. \nDo you want to continue?</string>
+
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+    <string name="overview">Overview</string>
+    <string name="period">Period</string>
+    <string name="start">Start</string>
+    <string name="notes">Notes</string>
+    <string name="end">End</string>
+    <string name="type_of_classes">Type of classes</string>
+    <string name="color">Color</string>
+    <string name="hint_subject">Subject</string>
+    <string name="hint_lecturer">Lecturer (optional)</string>
+    <string name="hint_classroom">Classroom</string>
+    <string name="start_time">8:00</string>
+    <string name="end_time">9:00</string>
+
+
+    <string name="notes_to_number_of_notes">Notes</string>
+    <string name="no_notes">No notes</string>
+
+    <string name="hint_note_title">Title</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

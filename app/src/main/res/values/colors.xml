@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03a9f4</color>
+    <color name="colorPrimaryDark">#0288d1</color>
+    <!--<color name="colorPrimaryDark">#03a9f4</color>-->
+    <color name="colorAccent">#448aff</color>
+
+    <color name="white_color">#B3FFFFFF</color>
+    <color name="light_blue_color">#B300B0F0</color>
+    <color name="dark_blue_color">#B3002DB1</color>
+    <color name="green_color">#B300B050</color>
+    <color name="light_green_color">#B392D050</color>
+    <color name="purple_color">#B37030A0</color>
+    <color name="orange_color">#BFF7750C</color>
+    <color name="light_orange_color">#B3FABF8F</color>
+    <color name="red_color">#BFDB0000</color>
+    <color name="yellow_color">#FFEE58</color>
+    <color name="dark_yellow_color">#B3FFC000</color>
+    <color name="grey_color">#B3969696</color>
+    <color name="black_color">#000000</color>
+
+    <color name="editorColorPrimary">#448aff</color>
+    <color name="editorColorPrimaryDark">#005ecb</color>
+    <!-- <color name="editorColorPrimaryDark">#448aff</color>-->
+
+     <color name="divider">#D5DCEC</color>
+     <color name="transparent_color">#00000000</color>
+
+     <color name="backgroundNotesColor">#66EDF1F5</color>
+ </resources>

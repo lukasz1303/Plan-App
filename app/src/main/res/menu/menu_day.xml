@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_inert_dummy_data"
+        android:title="@string/action_insert_dummy_data"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_delete_all_subjects"
+        android:title="@string/action_delete_all_subjects"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_add_new_subject"
+        android:title="Add"
+        android:icon="@drawable/ic_add"
+        app:showAsAction="ifRoom" />
+
+</menu>

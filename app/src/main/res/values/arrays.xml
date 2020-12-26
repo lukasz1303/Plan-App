@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_type_of_classes_options">
+        <item>@string/type_of_classes_lecture</item>
+        <item>@string/type_of_classes_exercises</item>
+        <item>@string/type_of_classes_labs</item>
+        <item>@string/type_of_classes_none</item>
+    </string-array>
+
+    <string-array name="array_colors_options">
+        <item>@mipmap/ic_launcher</item>
+        <item>@string/type_of_classes_exercises</item>
+        <item>@string/type_of_classes_labs</item>
+    </string-array>
+</resources>
