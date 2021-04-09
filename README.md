@@ -1,6 +1,6 @@
 # Plan-App
-Application for storing study plan with function to add notes to specific subject.
-
+Application for storing study plan with function to add notes to specific subject.  
+Implements Content Provider, SQLiteOpenHelper, Cursors, Loaders, Fragments
 
 ## Screenshots from app.  
 <img src="/screenshots/1.jpg" width="320"> <img src="/screenshots/2.jpg" width="320"> <img src="/screenshots/3.jpg" width="320"> 
